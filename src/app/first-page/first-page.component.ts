@@ -10,7 +10,7 @@ export class FirstPageComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log("ngOnInit - SecondPageComponent");
+    console.log("ngOnInit - FirstPageComponent");
   }
 
 }
